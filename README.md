@@ -2,4 +2,4 @@
 
 Using Django to build a simple e-commerce website with user and guest checkout capabilities.
 
-![image](https://user-images.githubusercontent.com/87808113/196161915-60fda379-0dc9-43e7-8a05-5a721065e3e3.png)
+![image](https://user-images.githubusercontent.com/87808113/196162153-dbdf2e39-6f85-4f18-a7fd-783b2ca6692f.png)
